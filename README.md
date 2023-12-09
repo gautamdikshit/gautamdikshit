@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi!<br> <li>Computer Engineering student.</li> <br><li>aspiring to become an ML Engineer.</li><br<li>>currently going through some minor ML projects that I can get my hands on.</li>
+# 💫 Hi! I am Dikshit.
+I'm a Computer Engineering student.<br>I'm aspiring to become an Machine Learning Engineer.<br>I'm currently working on some minor ML projects that I can get my hands on.
 
 
 ## 🌐 Socials:
