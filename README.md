@@ -1,5 +1,5 @@
 # 💫 Hi! I am Dikshit.
-I'm a Computer Engineering student.<br>I'm aspiring to become a Machine Learning Engineer.<br>I'm currently working on some minor ML projects that I can get my hands on.
+I'm a Computer Engineering graduate.<br>I'm aspiring to become a Machine Learning Engineer.<br>I'm currently working on some minor ML projects that I can get my hands on.
 
 
 ## 🌐 Socials:
